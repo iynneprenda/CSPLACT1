@@ -1,0 +1,11 @@
+C:\Users\factsofficer\Source\Repos\mmmcsplAct1\mmmcspl\bin\Debug\net6.0\mmmcspl.buslogic.deps.json
+C:\Users\factsofficer\Source\Repos\mmmcsplAct1\mmmcspl\bin\Debug\net6.0\mmmcspl.buslogic.dll
+C:\Users\factsofficer\Source\Repos\mmmcsplAct1\mmmcspl\bin\Debug\net6.0\mmmcspl.buslogic.pdb
+C:\Users\factsofficer\Source\Repos\mmmcsplAct1\mmmcspl\obj\Debug\net6.0\mmmcspl.buslogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\factsofficer\Source\Repos\mmmcsplAct1\mmmcspl\obj\Debug\net6.0\mmmcspl.buslogic.AssemblyInfoInputs.cache
+C:\Users\factsofficer\Source\Repos\mmmcsplAct1\mmmcspl\obj\Debug\net6.0\mmmcspl.buslogic.AssemblyInfo.cs
+C:\Users\factsofficer\Source\Repos\mmmcsplAct1\mmmcspl\obj\Debug\net6.0\mmmcspl.buslogic.csproj.CoreCompileInputs.cache
+C:\Users\factsofficer\Source\Repos\mmmcsplAct1\mmmcspl\obj\Debug\net6.0\mmmcspl.buslogic.dll
+C:\Users\factsofficer\Source\Repos\mmmcsplAct1\mmmcspl\obj\Debug\net6.0\refint\mmmcspl.buslogic.dll
+C:\Users\factsofficer\Source\Repos\mmmcsplAct1\mmmcspl\obj\Debug\net6.0\mmmcspl.buslogic.pdb
+C:\Users\factsofficer\Source\Repos\mmmcsplAct1\mmmcspl\obj\Debug\net6.0\ref\mmmcspl.buslogic.dll
